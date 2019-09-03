@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfEvaluation.Plugins", "GolfEvaluation.Plugins.csproj", "{1F5426B7-24C8-22BC-A213-ED49698427D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfEvaluation", "GolfEvaluation.csproj", "{40C5FDD0-F4AB-E9E8-1063-093075F6E5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfEvaluation.Editor.Plugins", "GolfEvaluation.Editor.Plugins.csproj", "{6775B331-02DD-EBF2-F6D6-2217BD4DC759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfEvaluation.Editor", "GolfEvaluation.Editor.csproj", "{2F20741A-55AA-1694-6396-EC48DC6A4C59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5426B7-24C8-22BC-A213-ED49698427D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5426B7-24C8-22BC-A213-ED49698427D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5426B7-24C8-22BC-A213-ED49698427D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5426B7-24C8-22BC-A213-ED49698427D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C5FDD0-F4AB-E9E8-1063-093075F6E5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C5FDD0-F4AB-E9E8-1063-093075F6E5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C5FDD0-F4AB-E9E8-1063-093075F6E5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C5FDD0-F4AB-E9E8-1063-093075F6E5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6775B331-02DD-EBF2-F6D6-2217BD4DC759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6775B331-02DD-EBF2-F6D6-2217BD4DC759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6775B331-02DD-EBF2-F6D6-2217BD4DC759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6775B331-02DD-EBF2-F6D6-2217BD4DC759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F20741A-55AA-1694-6396-EC48DC6A4C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F20741A-55AA-1694-6396-EC48DC6A4C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F20741A-55AA-1694-6396-EC48DC6A4C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F20741A-55AA-1694-6396-EC48DC6A4C59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
